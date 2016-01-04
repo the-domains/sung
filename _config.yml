@@ -1,0 +1,28 @@
+name: Sung
+favicon: null
+layout_spectrum: 0.9140760868322104
+typography_spectrum: 0.919377498794347
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9496249724179506
+  lightness: 0.5799715092871338
+  saturation: 0.08059327560476959
+  rhythmicContrast: 0.630479282932356
+purpose: []
